@@ -1,1 +1,1 @@
-# Movie-Rating
+# KNN on movie rating
